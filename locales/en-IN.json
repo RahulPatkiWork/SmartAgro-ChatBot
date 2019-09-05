@@ -1,0 +1,18 @@
+{
+   "WELCOME_BASIC": "Hi there, to get to know you better",
+   "WELCOME_AGAIN":"Hi again, %s. Please select your crop from suggestions:",
+   "WELCOME_NO":"OK, no issue mate! Please select your crop from suggestions:",
+   "WELCOME_YES":"Thanks, %s. Please select your crop from suggestions:",
+   "REPROMT0":"Which crop would you like to hear about?",
+   "REPROMT1":"Please state the type of crop you're interested in!",
+   "ASK1":"your crop is",
+   "ASK2":"Would you like to hear about various options for your crop?",
+   "ASK3":"Please select & tap on your preferred option below:",
+   "ASK4":"Do you want to see the options again?",
+   "KHARIF":"Kharif",
+   "RABI":"Rabbi",
+   "YES":"Yes",
+   "NO":"No",
+   
+
+}
